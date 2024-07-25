@@ -1,3 +1,32 @@
+
+User Authentication System Login
+
+Overview:
+An simple Authentication system with login & logout functionality with Context API in Reactjs
+
+  Features:
+  - Component rendering on authentication status
+  - login & logout functionality
+  - user information stored in context
+
+
+Screenshots:
+
+![Login](https://github.com/user-attachments/assets/4638a708-0f59-48ad-ab4e-a576fcc60d65)
+
+
+![Logout](https://github.com/user-attachments/assets/7e5f92f5-fddf-4bb1-9c03-26f3378e1b7b)
+
+
+
+Contact : 
+Andrew Johnson
+andrewjohnson9393@gmail.com
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
